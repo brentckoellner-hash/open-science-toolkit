@@ -1,0 +1,337 @@
+# The Open Science Toolkit
+
+> **A Comprehensive Guide to Open Research & Knowledge Preservation**
+
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Version](https://img.shields.io/badge/version-2.3-blue.svg)](https://github.com/yourusername/open-science-toolkit/releases)
+[![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
+
+**Version 2.3 – October 2025** | Enhanced with verified sources and community feedback
+
+## 📋 Table of Contents
+
+- [Scientific Repositories & Preprints](#1-scientific-repositories--preprints)
+- [Open Peer Review & Assessment](#2-open-peer-review--assessment)
+- [AI & Computational Tools](#3-ai--computational-tools)
+- [Earth, Climate & Environmental Data](#4-earth-climate--environmental-data)
+- [Humanities & Arts Repositories](#5-humanities--arts-repositories)
+- [Equity, Diversity & Global South](#6-equity-diversity--global-south)
+- [Open Data, Code & Hardware](#7-open-data-code--hardware)
+- [Research Data Management Platforms](#8-research-data-management-platforms)
+- [Digital Preservation & Reproducibility](#9-digital-preservation--reproducibility)
+- [Education & Training](#10-education--training)
+- [Practical Workflow & Visualization](#11-practical-workflow--visualization)
+- [Contributing](#-contributing)
+- [Citation](#-citation)
+- [License](#-license)
+
+---
+
+## 1. Scientific Repositories & Preprints
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **arXiv.org** | Free preprint server for STEM fields | https://arxiv.org/ |
+| **bioRxiv** | Biology preprints | https://www.biorxiv.org/ |
+| **medRxiv** | Health sciences preprints | https://www.medrxiv.org/ |
+| **ChemRxiv** | Chemistry preprints | https://chemrxiv.org/ |
+| **PsyArXiv** | Psychology preprints | https://psyarxiv.com/ |
+| **SocArXiv** | Social sciences preprints | https://osf.io/preprints/socarxiv/ |
+| **Zenodo** | General research data and DOIs | https://zenodo.org/ |
+| **CORE** | Open access aggregator | https://core.ac.uk/ |
+| **EarthArXiv** | Geoscience preprints | https://eartharxiv.org/ |
+| **marXiv** | Materials science preprints | https://www.marxiv.org/ |
+| **AfricArXiv** | African-focused preprints | https://info.africarxiv.org/ |
+| **SciELO** | Latin American open access journals | https://scielo.org/ |
+| **OpenDOAR** | Directory of Open Access Repositories | https://v2.sherpa.ac.uk/opendoar/ |
+| **DOAPR** | Directory of Open Access Preprint Repositories | https://doapr.coar-repositories.org/ |
+
+## 2. Open Peer Review & Assessment
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **OpenReview** | Transparent peer review platform | https://openreview.net/ |
+| **DORA** | Research assessment reform | https://sfdora.org/ |
+| **CoARA** | Advancing research assessment | https://coara.eu/ |
+| **CrossRef** | Citation metadata | https://www.crossref.org/ |
+| **Dimensions** | Research metrics | https://www.dimensions.ai/ |
+| **Lens.org** | Open scholarly data | https://www.lens.org/ |
+| **Altmetric** | Broader impact tracking beyond citations | https://www.altmetric.com/ |
+| **ORCID** | Persistent researcher identifiers | https://orcid.org/ |
+
+## 3. AI & Computational Tools
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **Hugging Face Datasets** | AI/ML datasets | https://huggingface.co/datasets |
+| **AllenNLP** | NLP research library | https://allennlp.org/ |
+| **CatalyzeX** | Links papers to code | https://catalyzex.com/ |
+| **Papers with Code** | ML papers with implementation code | https://paperswithcode.com/ |
+| **Semantic Scholar** | AI literature search | https://www.semanticscholar.org/ |
+| **Open Science Grid** | Distributed computing | https://www.opensciencegrid.org/ |
+| **Jupyter / MyBinder** | Executable notebooks | https://mybinder.org/ |
+| **ExecutableBooks / Jupyter Book** | Interactive books from notebooks | https://jupyterbook.org/ |
+| **EleutherAI** | Open LLM training data and models | https://www.eleuther.ai/ |
+| **OMol25** | Large quantum chemistry dataset (Meta, May 2025) | https://huggingface.co/facebook/OMol25 |
+| **UMA** | Universal Model for Atoms (Meta, May 2025) | https://ai.meta.com/research/publications/uma-a-family-of-universal-models-for-atoms/ |
+| **Qiskit** | Open quantum SDK (IBM) | https://qiskit.org/ |
+| **PennyLane** | Quantum ML library (Xanadu) | https://pennylane.ai/ |
+| **LiveCodeBenchPro** | Advanced coding benchmark for LLM evaluation (June 2025) | https://livecodebenchpro.com/ |
+| **OWASP Top 10 for LLMs** | Critical security vulnerabilities in LLM applications | https://owasp.org/www-project-top-10-for-large-language-model-applications/ |
+| **MITRE ATLAS** | Knowledge base for adversarial tactics against ML systems | https://atlas.mitre.org/ |
+
+## 4. Earth, Climate & Environmental Data
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **NASA Earthdata** | Satellite & climate datasets | https://earthdata.nasa.gov/ |
+| **NASA OSDR** | Spaceflight biological and physical science datasets | https://www.nasa.gov/osdr/ |
+| **NOAA NCEI** | Environmental archives | https://www.ncei.noaa.gov/ |
+| **Pangaea** | Earth & environmental data | https://www.pangaea.de/ |
+| **Copernicus Climate Service** | EU climate data | https://climate.copernicus.eu/ |
+| **GBIF** | Biodiversity data | https://www.gbif.org/ |
+| **OBIS** | Ocean biodiversity | https://obis.org/ |
+| **iNaturalist** | Citizen science observations | https://www.inaturalist.org/ |
+| **FAIR² Data Management** | AI-enhanced platform for making research data AI-ready (Frontiers, March 2025) | https://www.frontiersin.org/about/fair-data-management |
+
+## 5. Humanities & Arts Repositories
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **Humanities Commons** | Open humanities scholarship | https://hcommons.org/ |
+| **DARIAH-EU** | Digital research infrastructure for arts & humanities | https://www.dariah.eu/ |
+
+## 6. Equity, Diversity & Global South
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **OCSDNet** | Open science in low/middle-income countries | https://ocsdnet.org/ |
+| **CRAFT-OA** | Diamond open access initiative | https://www.craft-oa.eu/ |
+| **Plan S** | Full open access transition initiative | https://www.coalition-s.org/ |
+| **CARE Principles** | Indigenous Data Sovereignty – Ethical data guidelines | https://www.gida-global.org/care |
+
+## 7. Open Data, Code & Hardware
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **GitHub** | Open source code hosting | https://github.com/ |
+| **Dryad** | Research data repository | https://datadryad.org/ |
+| **Mendeley Data** | Data sharing | https://data.mendeley.com/ |
+| **Code Ocean** | Reproducible research platform | https://codeocean.com/ |
+| **OHWR** | Open Hardware Repository – Instrument designs | https://www.ohwr.org/ |
+| **Software Heritage** | Archive of open-source code | https://www.softwareheritage.org/ |
+
+## 8. Research Data Management Platforms
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **Globus** | Unified research data management across all storage systems | https://www.globus.org/ |
+| **DMPTool** | Collaborative data management planning tool | https://dmptool.org/ |
+| **LabArchives** | Cloud-based electronic lab notebook | https://www.labarchives.com/ |
+| **REDCap** | Secure web application for building and managing databases and surveys | https://projectredcap.org/ |
+
+## 9. Digital Preservation & Reproducibility
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **Internet Archive** | Wayback Machine & digital library | https://archive.org/ |
+| **HathiTrust** | Digitized books | https://www.hathitrust.org/ |
+| **Project Gutenberg** | Free ebooks | https://www.gutenberg.org/ |
+| **Dataverse** | Social science data preservation | https://dataverse.org/ |
+| **Protocols.io** | Experimental protocols | https://www.protocols.io/ |
+| **OSF Registries** | Study pre-registration | https://osf.io/registries/ |
+| **CLOCKSS** | Long-term digital archiving | https://clockss.org/ |
+| **Portico** | E-journal preservation | https://www.portico.org/ |
+
+## 10. Education & Training
+
+| Resource | Description | URL |
+|----------|-------------|-----|
+| **MIT OpenCourseWare** | Free MIT course materials | https://ocw.mit.edu/ |
+| **Khan Academy** | Free K–14 education | https://www.khanacademy.org/ |
+| **OpenStax** | Free college textbooks | https://openstax.org/ |
+| **Software Carpentry / Data Carpentry** | Reproducible research training | https://software-carpentry.org/ |
+| **The Turing Way** | Guide to reproducible data science | https://the-turing-way.netlify.app/ |
+| **Open Science MOOC** | Open science training modules | https://www.openaire.eu/open-science-mooc |
+| **Reproducible Science Curriculum** | Comprehensive training materials | https://reproducible-science-curriculum.readthedocs.io/ |
+
+## 11. Practical Workflow & Visualization
+
+### 🔄 Research Lifecycle Flow
+
+```
+STEP 1: PLAN & PRE-REGISTER
+└─→ OSF Registries, Protocols.io, DMPTool
+
+STEP 2: COLLECT DATA
+└─→ Assign DOI (Zenodo/Dryad/Dataverse), REDCap, LabArchives
+
+STEP 3: ANALYZE
+└─→ Jupyter Notebooks, GitHub, Reproducible Code
+
+STEP 4: PUBLISH PREPRINT
+└─→ arXiv/bioRxiv/domain-specific preprint servers
+
+STEP 5: PEER REVIEW
+└─→ OpenReview, traditional journals with OA options
+
+STEP 6: PRESERVE & ARCHIVE
+└─→ Internet Archive, Software Heritage, CLOCKSS, Globus
+
+STEP 7: TRACK IMPACT
+└─→ Dimensions, Lens.org, Altmetric
+
+STEP 8: ENGAGE COMMUNITY
+└─→ Zooniverse, iNaturalist, social media
+
+Throughout all steps: Apply FAIR Principles + CARE Ethics + ORCID/CRediT
+```
+
+### ✅ Essential Checklist
+
+- [ ] Follow **FAIR** principles (Findable, Accessible, Interoperable, Reusable)
+- [ ] Apply **CARE** principles (Collective benefit, Authority to control, Responsibility, Ethics)
+- [ ] Assign **DOIs** to all datasets and code releases
+- [ ] Use **ORCID** for persistent researcher identity
+- [ ] Apply **CRediT** taxonomy for author contributions
+- [ ] Create **reproducible notebooks** (Jupyter/R Markdown)
+- [ ] **Pre-register** studies when applicable
+- [ ] Share **code** via GitHub/Software Heritage
+- [ ] Document **protocols** on Protocols.io
+- [ ] Archive **final versions** in preservation systems
+- [ ] Use **data management plans** via DMPTool
+
+---
+
+## 🔄 Recent Updates
+
+### Version 2.3 (October 2025)
+
+**✅ Verified & Corrected:**
+- OMol25 (now with correct Hugging Face URL)
+- UMA (now with correct Meta AI URL)
+- FAIR² (description updated, correct Frontiers URL)
+- LiveCodeBenchPro (verified and URL added)
+
+**➕ New Additions:**
+- OpenDOAR & DOAPR (directories)
+- NASA OSDR (spaceflight data)
+- Globus, DMPTool, LabArchives, REDCap (research data management)
+- OWASP Top 10 for LLMs & MITRE ATLAS (LLM security)
+
+**❌ Removed:**
+- REACH (NOAA) – no evidence of existence
+- Lock-LLMs – replaced with established security frameworks
+
+**📂 New Section:**
+- Research Data Management Platforms
+
+### Previous Versions
+
+- **v2.2 (Oct 2025):** Added Altmetric, Papers with Code, EleutherAI, SciELO, Plan S, CLOCKSS, Portico, workflow visualization
+- **v2.1 (Oct 2025):** Original comprehensive compilation
+- **v2.0 and earlier:** Initial development
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions from the open science community! Here's how you can help:
+
+### Ways to Contribute
+
+1. **Report Issues**: Found a broken link or outdated information? [Open an issue](../../issues)
+2. **Suggest New Resources**: Know of a valuable open science tool? [Submit a suggestion](../../issues/new)
+3. **Update Documentation**: See something that needs clarification? Submit a pull request
+4. **Verify Resources**: Help us keep links and descriptions current
+
+### Contribution Guidelines
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b add-new-resource`)
+3. Make your changes
+4. Ensure links are working and descriptions are accurate
+5. Commit your changes (`git commit -m 'Add new resource: ResourceName'`)
+6. Push to the branch (`git push origin add-new-resource`)
+7. Open a Pull Request
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+### Automated Updates
+
+We're working on:
+- GitHub Actions for automated link checking
+- RSS feed monitoring for resource updates
+- Community-driven verification system
+
+---
+
+## 📖 Citation
+
+If you use this toolkit in your research or teaching, please cite it as:
+
+```bibtex
+@misc{opensciencetoolkit2025,
+  title={The Open Science Toolkit: A Comprehensive Guide to Open Research \& Knowledge Preservation},
+  author={{Open Science Toolkit Contributors}},
+  version={2.3},
+  year={2025},
+  month={October},
+  url={https://github.com/yourusername/open-science-toolkit},
+  note={DOI to be assigned via Zenodo}
+}
+```
+
+**APA Style:**
+Open Science Toolkit Contributors. (2025). *The Open Science Toolkit: A Comprehensive Guide to Open Research & Knowledge Preservation* (Version 2.3). https://github.com/yourusername/open-science-toolkit
+
+---
+
+## 📄 License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a>
+
+This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
+
+**You are free to:**
+- Share — copy and redistribute the material in any medium or format
+- Adapt — remix, transform, and build upon the material for any purpose, even commercially
+
+**Under the following terms:**
+- Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+
+---
+
+## 🌟 Star History
+
+If you find this toolkit useful, please consider giving it a star! ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/open-science-toolkit&type=Date)](https://star-history.com/#yourusername/open-science-toolkit&Date)
+
+---
+
+## 📬 Contact & Community
+
+- **Issues & Suggestions**: [GitHub Issues](../../issues)
+- **Discussions**: [GitHub Discussions](../../discussions)
+- **Social Media**: Share using `#OpenScienceToolkit`
+- **DOI**: [To be assigned via Zenodo]
+
+---
+
+## 🙏 Acknowledgments
+
+This toolkit has been developed with input from the open science community. Special thanks to all contributors who have helped identify resources, verify links, and improve documentation.
+
+**Maintained by**: [Your Name/Organization]
+
+**Last Updated**: October 2025
+
+---
+
+<div align="center">
+  <strong>Help us improve this toolkit!</strong><br>
+  <a href="../../issues/new">Report an issue</a> · 
+  <a href="../../pulls">Submit a PR</a> · 
+  <a href="../../discussions">Join the discussion</a>
+</div>
