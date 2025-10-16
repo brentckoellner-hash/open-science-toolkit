@@ -1,0 +1,19 @@
+name: Update Toolkit via RSS
+on:
+  schedule:
+    - cron: '0 0 * * *' # Daily at midnight
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Fetch RSS feeds
+        run: |
+          curl https://arxiv.org/rss | grep "<item>" > new_resources.txt
+          curl https://huggingface.co/feed | grep "<item>" >> new_resources.txt
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v4
+        with:
+          commit-message: "Add new resources from RSS feeds"
+          title: "Automated RSS Update"
+          branch: "rss-updates"
